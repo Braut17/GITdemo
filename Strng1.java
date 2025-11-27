@@ -1,4 +1,4 @@
-package programs;
+
 
 public class Strng1 {
 	public static void main(String[] args) {
